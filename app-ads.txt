@@ -1,3 +1,8 @@
 # King Of Anime — Authorized Digital Sellers
-# Updated: 2026-05-01
-# Add AppLovin lines here after account creation
+# Updated: 2026-05-23
+
+# Google AdMob
+google.com, pub-1437329794083781, DIRECT, f08c47fec0942fa0
+
+# AppLovin (להוסיף אחרי יצירת חשבון)
+# applovin.com, YOUR_APPLOVIN_ACCOUNT_ID, DIRECT, XXXXXXXXXXXXXXXX
