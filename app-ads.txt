@@ -4,5 +4,5 @@
 # Google AdMob
 google.com, pub-1437329794083781, DIRECT, f08c47fec0942fa0
 
-# AppLovin (להוסיף אחרי יצירת חשבון)
+# AppLovin
 # applovin.com, YOUR_APPLOVIN_ACCOUNT_ID, DIRECT, XXXXXXXXXXXXXXXX
