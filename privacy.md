@@ -14,7 +14,7 @@ We designed King Of Anime to collect as little personal data as possible. This p
 | | |
 |---|---|
 | Controller | King Of Anime |
-| Address | Rothschild 1, Tel Aviv, Israel 6688101 |
+| Address | Israel |
 | Privacy contact | kingofanimeofficial1@gmail.com |
 | Support | kingofanimeofficial1@gmail.com |
 | Data Protection Officer | kingofanimeofficial1@gmail.com (if designated) |
@@ -206,7 +206,7 @@ Older versions are archived and available on request.
 
 Questions, complaints, or rights requests:
 - Email: kingofanimeofficial1@gmail.com
-- Post: King Of Anime, Rothschild 1, Tel Aviv, Israel 6688101
+- Post: King Of Anime, Israel
 
 If we do not resolve your concern, you may lodge a complaint with:
 - **Israel:** The Privacy Protection Authority (Rashut Haganat HaPrati)
