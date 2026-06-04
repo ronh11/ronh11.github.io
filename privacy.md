@@ -91,6 +91,11 @@ We share personal data only with the following categories of recipients, each bo
 | Law-enforcement authorities | Only when legally compelled | As required by a valid order | — |
 | An acquirer in a merger / acquisition | Business transfer | Your account data | — |
 
+Google, as a third-party ad vendor, uses device identifiers and cookies to serve
+ads in this app. To learn how Google collects and uses data from apps that use
+its advertising services, see Google's policy:
+https://policies.google.com/technologies/partner-sites
+
 We **do not sell personal data** within the meaning of the CCPA or any other consumer-privacy statute. We do not share data for cross-context behavioural advertising beyond what the ad-network integrations inherently require.
 
 ---
