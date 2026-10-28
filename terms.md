@@ -89,7 +89,8 @@ EU / Israeli consumers: statutory consumer-protection rights are not affected by
 
 ## 10. Termination
 
-- **By you:** delete your Account from within the App (Profile → Settings → Delete my account).
+- **By you:** delete your Account from within the App (Settings (⚙) → Delete Account).
+
 - **By us:** we may suspend or terminate your access if you breach these Terms.
 
 ---
