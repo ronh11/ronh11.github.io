@@ -11,12 +11,12 @@ You can delete your King Of Anime account in two ways:
 ## In the app (fastest)
 
 1. Open King Of Anime.
-2. Tap the profile icon in the top-right of the home screen.
-3. Tap **Settings**.
-4. Tap **"Delete my account"**.
-5. Confirm twice.
+2. Tap the gear icon (⚙) in the top-right of the home screen.
+3. Tap **Delete Account** at the bottom of the list.
+4. Tap **"Yes, delete my account"** to confirm.
 
-Your account and all associated data are permanently deleted within 24 hours.
+Your account is deleted immediately. Analytics data linked to your account is deleted within 30 days.
+
 
 ## By email
 
